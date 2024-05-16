@@ -1,0 +1,18 @@
+package first;
+
+public class SumofNnumbers {
+
+	public static void main(String[] args) {
+		int n = 5;
+		findsum(n,0);
+	}
+
+	private static void findsum(int n, int sum) {
+		if(n==0) {
+			System.out.println(sum);
+			return;
+		}
+		findsum(n-1,sum+n);
+	}
+
+}
