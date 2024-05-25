@@ -1,6 +1,6 @@
 package Basic;
 import java.util.*;
-public class From1toN {
+public class from1toN {
 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);

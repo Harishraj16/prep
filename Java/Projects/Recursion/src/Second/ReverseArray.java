@@ -1,6 +1,6 @@
 package Second;
 
-public class ReverseAyyar {
+public class ReverseArray {
 
 	//USING TWO POINTER
 //	public static void main(String[] args) {
